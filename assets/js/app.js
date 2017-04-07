@@ -1,0 +1,1 @@
+$("#banner").slick({dots:!0,infinite:!0,speed:500,autoplay:!0,arrows:!1}),$(".navbar-toggle").click(function(){$(this).toggleClass("active")});
